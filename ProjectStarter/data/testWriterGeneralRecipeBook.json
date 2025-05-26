@@ -1,0 +1,18 @@
+{"recipes": [{
+    "instructions": [
+        "put oil in pan",
+        "add egg",
+        "fry both sides until slightly brown"
+    ],
+    "timeNeeded": 5,
+    "review": {
+        "isTried": false,
+        "reviewNote": "",
+        "dateOfReview": ""
+    },
+    "title": "Fried Egg",
+    "ingrediants": [
+        "egg",
+        "oil"
+    ]
+}]}

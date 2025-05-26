@@ -1,0 +1,24 @@
+{"recipes": [
+    {
+        "instructions": ["m"],
+        "timeNeeded": 9,
+        "review": {
+            "isTried": true,
+            "reviewNote": "",
+            "dateOfReview": ""
+        },
+        "title": "Eggs",
+        "ingrediants": ["eggs"]
+    },
+    {
+        "instructions": ["m"],
+        "timeNeeded": 9,
+        "review": {
+            "isTried": false,
+            "reviewNote": "",
+            "dateOfReview": ""
+        },
+        "title": "Rice",
+        "ingrediants": ["eggs"]
+    }
+]}
